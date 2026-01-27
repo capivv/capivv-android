@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Paywall -->
+    <string name="capivv_unlock_premium">Unlock Premium</string>
+    <string name="capivv_subscribe_now">Subscribe Now</string>
+    <string name="capivv_restore_purchases">Restore Purchases</string>
+    <string name="capivv_continue">Continue</string>
+    <string name="capivv_cancel">Cancel</string>
+    <string name="capivv_close">Close</string>
+    <string name="capivv_loading">Loading…</string>
+    <string name="capivv_loading_products">Loading products…</string>
+    <string name="capivv_retry">Retry</string>
+    <string name="capivv_error">Error</string>
+
+    <!-- Purchase -->
+    <string name="capivv_purchase_successful">Purchase Successful</string>
+    <string name="capivv_purchase_failed">Purchase Failed</string>
+    <string name="capivv_purchase_cancelled">Purchase Cancelled</string>
+    <string name="capivv_purchase_pending">Purchase Pending</string>
+    <string name="capivv_restore_successful">Purchases Restored</string>
+    <string name="capivv_restore_failed">Restore Failed</string>
+    <string name="capivv_no_purchases_to_restore">No purchases to restore</string>
+
+    <!-- Product -->
+    <string name="capivv_free_trial">Free Trial</string>
+    <string name="capivv_trial_period">%s free trial</string>
+    <string name="capivv_per_month">/ month</string>
+    <string name="capivv_per_year">/ year</string>
+    <string name="capivv_per_week">/ week</string>
+    <string name="capivv_monthly">Monthly</string>
+    <string name="capivv_yearly">Annual</string>
+    <string name="capivv_weekly">Weekly</string>
+    <string name="capivv_best_value">Best Value</string>
+    <string name="capivv_most_popular">Most Popular</string>
+
+    <!-- Legal -->
+    <string name="capivv_terms_of_service">Terms of Service</string>
+    <string name="capivv_privacy_policy">Privacy Policy</string>
+    <string name="capivv_subscription_disclaimer">Subscription automatically renews unless cancelled at least 24 hours before the end of the current period.</string>
+
+    <!-- Features -->
+    <string name="capivv_whats_included">What\'s Included</string>
+    <string name="capivv_features">Features</string>
+
+    <!-- Countdown -->
+    <string name="capivv_offer_expires">Offer Expires</string>
+    <string name="capivv_offer_expired">Offer Expired</string>
+    <string name="capivv_days">days</string>
+    <string name="capivv_hours">hours</string>
+    <string name="capivv_minutes">minutes</string>
+    <string name="capivv_seconds">seconds</string>
+
+    <!-- FAQ -->
+    <string name="capivv_faq">Frequently Asked Questions</string>
+
+    <!-- Social Proof -->
+    <string name="capivv_reviews">reviews</string>
+    <string name="capivv_downloads">downloads</string>
+</resources>

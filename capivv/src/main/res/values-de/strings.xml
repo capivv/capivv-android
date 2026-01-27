@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="capivv_unlock_premium">Premium Freischalten</string>
+    <string name="capivv_subscribe_now">Jetzt Abonnieren</string>
+    <string name="capivv_restore_purchases">Käufe Wiederherstellen</string>
+    <string name="capivv_continue">Weiter</string>
+    <string name="capivv_cancel">Abbrechen</string>
+    <string name="capivv_close">Schließen</string>
+    <string name="capivv_loading">Laden…</string>
+    <string name="capivv_loading_products">Produkte werden geladen…</string>
+    <string name="capivv_retry">Wiederholen</string>
+    <string name="capivv_error">Fehler</string>
+    <string name="capivv_purchase_successful">Kauf Erfolgreich</string>
+    <string name="capivv_purchase_failed">Kauf Fehlgeschlagen</string>
+    <string name="capivv_purchase_cancelled">Kauf Abgebrochen</string>
+    <string name="capivv_purchase_pending">Kauf Ausstehend</string>
+    <string name="capivv_restore_successful">Käufe Wiederhergestellt</string>
+    <string name="capivv_restore_failed">Wiederherstellung Fehlgeschlagen</string>
+    <string name="capivv_no_purchases_to_restore">Keine Käufe zum Wiederherstellen</string>
+    <string name="capivv_free_trial">Kostenlose Testversion</string>
+    <string name="capivv_trial_period">%s kostenlos testen</string>
+    <string name="capivv_per_month">/ Monat</string>
+    <string name="capivv_per_year">/ Jahr</string>
+    <string name="capivv_per_week">/ Woche</string>
+    <string name="capivv_monthly">Monatlich</string>
+    <string name="capivv_yearly">Jährlich</string>
+    <string name="capivv_weekly">Wöchentlich</string>
+    <string name="capivv_best_value">Bester Wert</string>
+    <string name="capivv_most_popular">Am Beliebtesten</string>
+    <string name="capivv_terms_of_service">Nutzungsbedingungen</string>
+    <string name="capivv_privacy_policy">Datenschutzrichtlinie</string>
+    <string name="capivv_subscription_disclaimer">Das Abonnement verlängert sich automatisch, es sei denn, es wird mindestens 24 Stunden vor Ende des aktuellen Zeitraums gekündigt.</string>
+    <string name="capivv_whats_included">Was Enthalten Ist</string>
+    <string name="capivv_features">Funktionen</string>
+    <string name="capivv_offer_expires">Angebot Endet</string>
+    <string name="capivv_offer_expired">Angebot Abgelaufen</string>
+    <string name="capivv_days">Tage</string>
+    <string name="capivv_hours">Stunden</string>
+    <string name="capivv_minutes">Minuten</string>
+    <string name="capivv_seconds">Sekunden</string>
+    <string name="capivv_faq">Häufig Gestellte Fragen</string>
+    <string name="capivv_reviews">Bewertungen</string>
+    <string name="capivv_downloads">Downloads</string>
+</resources>

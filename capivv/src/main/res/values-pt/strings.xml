@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="capivv_unlock_premium">Desbloquear Premium</string>
+    <string name="capivv_subscribe_now">Assinar Agora</string>
+    <string name="capivv_restore_purchases">Restaurar Compras</string>
+    <string name="capivv_continue">Continuar</string>
+    <string name="capivv_cancel">Cancelar</string>
+    <string name="capivv_close">Fechar</string>
+    <string name="capivv_loading">Carregando…</string>
+    <string name="capivv_loading_products">Carregando produtos…</string>
+    <string name="capivv_retry">Tentar Novamente</string>
+    <string name="capivv_error">Erro</string>
+    <string name="capivv_purchase_successful">Compra Bem-sucedida</string>
+    <string name="capivv_purchase_failed">Compra Falhou</string>
+    <string name="capivv_purchase_cancelled">Compra Cancelada</string>
+    <string name="capivv_purchase_pending">Compra Pendente</string>
+    <string name="capivv_restore_successful">Compras Restauradas</string>
+    <string name="capivv_restore_failed">Falha na Restauração</string>
+    <string name="capivv_no_purchases_to_restore">Nenhuma compra para restaurar</string>
+    <string name="capivv_free_trial">Teste Gratuito</string>
+    <string name="capivv_trial_period">%s de teste grátis</string>
+    <string name="capivv_per_month">/ mês</string>
+    <string name="capivv_per_year">/ ano</string>
+    <string name="capivv_per_week">/ semana</string>
+    <string name="capivv_monthly">Mensal</string>
+    <string name="capivv_yearly">Anual</string>
+    <string name="capivv_weekly">Semanal</string>
+    <string name="capivv_best_value">Melhor Valor</string>
+    <string name="capivv_most_popular">Mais Popular</string>
+    <string name="capivv_terms_of_service">Termos de Serviço</string>
+    <string name="capivv_privacy_policy">Política de Privacidade</string>
+    <string name="capivv_subscription_disclaimer">A assinatura é renovada automaticamente, a menos que seja cancelada pelo menos 24 horas antes do final do período atual.</string>
+    <string name="capivv_whats_included">O Que Está Incluído</string>
+    <string name="capivv_features">Recursos</string>
+    <string name="capivv_offer_expires">Oferta Expira</string>
+    <string name="capivv_offer_expired">Oferta Expirada</string>
+    <string name="capivv_days">dias</string>
+    <string name="capivv_hours">horas</string>
+    <string name="capivv_minutes">minutos</string>
+    <string name="capivv_seconds">segundos</string>
+    <string name="capivv_faq">Perguntas Frequentes</string>
+    <string name="capivv_reviews">avaliações</string>
+    <string name="capivv_downloads">downloads</string>
+</resources>

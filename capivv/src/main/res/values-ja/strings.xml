@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="capivv_unlock_premium">プレミアムを解除</string>
+    <string name="capivv_subscribe_now">今すぐ購読</string>
+    <string name="capivv_restore_purchases">購入を復元</string>
+    <string name="capivv_continue">続ける</string>
+    <string name="capivv_cancel">キャンセル</string>
+    <string name="capivv_close">閉じる</string>
+    <string name="capivv_loading">読み込み中…</string>
+    <string name="capivv_loading_products">商品を読み込み中…</string>
+    <string name="capivv_retry">再試行</string>
+    <string name="capivv_error">エラー</string>
+    <string name="capivv_purchase_successful">購入完了</string>
+    <string name="capivv_purchase_failed">購入失敗</string>
+    <string name="capivv_purchase_cancelled">購入キャンセル</string>
+    <string name="capivv_purchase_pending">購入保留中</string>
+    <string name="capivv_restore_successful">購入を復元しました</string>
+    <string name="capivv_restore_failed">復元に失敗しました</string>
+    <string name="capivv_no_purchases_to_restore">復元する購入がありません</string>
+    <string name="capivv_free_trial">無料トライアル</string>
+    <string name="capivv_trial_period">%s 無料お試し</string>
+    <string name="capivv_per_month">/ 月</string>
+    <string name="capivv_per_year">/ 年</string>
+    <string name="capivv_per_week">/ 週</string>
+    <string name="capivv_monthly">月額</string>
+    <string name="capivv_yearly">年額</string>
+    <string name="capivv_weekly">週額</string>
+    <string name="capivv_best_value">お得</string>
+    <string name="capivv_most_popular">人気</string>
+    <string name="capivv_terms_of_service">利用規約</string>
+    <string name="capivv_privacy_policy">プライバシーポリシー</string>
+    <string name="capivv_subscription_disclaimer">現在の期間終了の24時間前までにキャンセルしない限り、自動的に更新されます。</string>
+    <string name="capivv_whats_included">含まれるもの</string>
+    <string name="capivv_features">機能</string>
+    <string name="capivv_offer_expires">オファー終了</string>
+    <string name="capivv_offer_expired">オファー終了済み</string>
+    <string name="capivv_days">日</string>
+    <string name="capivv_hours">時間</string>
+    <string name="capivv_minutes">分</string>
+    <string name="capivv_seconds">秒</string>
+    <string name="capivv_faq">よくある質問</string>
+    <string name="capivv_reviews">レビュー</string>
+    <string name="capivv_downloads">ダウンロード</string>
+</resources>
