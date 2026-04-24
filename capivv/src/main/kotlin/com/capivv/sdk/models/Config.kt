@@ -11,7 +11,7 @@ package com.capivv.sdk.models
  */
 data class CapivvConfig(
     val apiKey: String,
-    val baseUrl: String = "https://api.capivv.com",
+    val baseUrl: String = "https://app.capivv.com",
     val debug: Boolean = false,
     val cacheEnabled: Boolean = true,
     val cacheTtlSeconds: Long = 300L
@@ -27,7 +27,7 @@ data class CapivvConfig(
          */
         fun production(apiKey: String) = CapivvConfig(
             apiKey = apiKey,
-            baseUrl = "https://api.capivv.com",
+            baseUrl = "https://app.capivv.com",
             debug = false
         )
 

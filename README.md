@@ -202,7 +202,7 @@ val localizedText = CapivvL10n.get("subscribe_now", "es") // "Suscribirse Ahora"
 ```kotlin
 CapivvConfig(
     apiKey = "capivv_secret_...",      // Required: Your API key
-    baseUrl = "https://api.capivv.com", // Optional: API base URL
+    baseUrl = "https://app.capivv.com", // Optional: API base URL
     debug = false,                       // Optional: Enable debug logging
     cacheEnabled = true,                 // Optional: Enable response caching
     cacheTtlSeconds = 300L               // Optional: Cache TTL in seconds
